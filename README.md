@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+<p>I'm Luiz, a IT student from Brazil.</p>
+<br>
+<p>I like to study backend but i'm learnign some frontend to achieve the necessary skills to be an fullstack.</p>
+<br>
+<p>I like to work with Python and PHP, i know some Javascript but i like the others more.</p>
+<br>
+<p>This is my personal profile where i am going to upload all my portfolio work, personal projects and things i'm currently learning.</p>
+
 <!--
 **LuizHenriqueMP/LuizHenriqueMP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
